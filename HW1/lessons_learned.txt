@@ -1,0 +1,1 @@
+use strcpy to copy and store char array (in this case used for malloc)

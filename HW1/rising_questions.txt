@@ -1,0 +1,1 @@
+1. buff declare as char buff[2], why no error having it store array "aaa", which has size 3 (larger than 2)?

@@ -1,0 +1,8 @@
+read input:
+fscanf()
+fgetc()
+isalnum()
+
+open a file:
+fopen()
+
